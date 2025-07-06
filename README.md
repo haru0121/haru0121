@@ -1,5 +1,13 @@
-## Hi there 👋
+## こんにちは 🐕
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=haru0121&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/haru0121"
+  width="600"
+  height="300"
+/>
+</a>
 
+## 
 <!--
 **haru0121/haru0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
